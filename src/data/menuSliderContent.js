@@ -21,15 +21,15 @@ import SheetPan700 from '../assets/images/menu-slider/pasta-three-700.webp'
 
 const menuSliderCategories = [
     {
-        name: 'pizza',
+        name: 'Haj & Umrah',
         id: 'pizza',
     },
     {
-        name: 'sushi',
+        name: "Hotel's",
         id: 'sushi',
     },
     {
-        name: 'pasta',
+        name: "Visa's",
         id: 'pasta',
     },
 ]

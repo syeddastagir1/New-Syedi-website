@@ -17,12 +17,9 @@ export default class MenuPricingPreview extends React.Component {
         exit={{ opacity: 0, translateX: -300 }}
         transition={{ duration: 2 }}
       >
-        <h2 className="txt-center pop-font txt-white">Menu Pricing</h2>
+        <h2 className="txt-center pop-font txt-white">Visa's Pricing</h2>
         <p className="section-description">
-          Every bite of every meal is different and special. You will never get
-          bored and you will always be able to find something new and
-          interesting for you. Discover every mouthwatering option we have to
-          offer
+        Our visa pricing is designed to be accessible, ensuring that you can explore the world without financial strain. We believe that everyone should have the opportunity to experience the beauty of international travel, and our affordable visa options reflect that belief.
         </p>
         <section className="pricing-grid flex-container flex-column">
           {menuPricing.map((menu) => (

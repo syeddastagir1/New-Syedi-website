@@ -17,9 +17,7 @@ export default class BlogPreview extends React.Component {
 
         <h2 className="txt-center pop-font txt-white">Recent from blog</h2>
         <p className="section-description">
-          Fresh, flavorful and maybe some healthy recipes made for real, actual,
-          every day life. You don't need to be a pro! Helping you celebrate the
-          joy of food in a totally non-intimidating way.
+        This blog post introduces Syedi Hospitality as a trusted partner for Haj and Umrah pilgrimages, hotel bookings, and visa services. It emphasizes the company's commitment to making these journeys as smooth and meaningful as possible for their clients.
         </p>
         <section className="blog-posts-landing">
           {blogPreview.map((post) => (
