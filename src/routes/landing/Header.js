@@ -1,5 +1,6 @@
 import React from 'react'
-import logo from '../../assets/images/logo.png'
+import  logo from '../../assets/images/logo.png'
+import Newlogo from '../../assets/images/Newlogo.png'
 import openMenu from '../../assets/images/open-menu.svg'
 import closeMenu from '../../assets/images/close-menu.svg'
 import { Link, NavLink } from 'react-router-dom'
@@ -30,11 +31,11 @@ const Header = ({ loginModal,
             width="50"
             height="50"
             className="logo"
-            src={logo}
-            alt="Pizza Time logo"
+            src={Newlogo}
+            alt="SYEDI HOSPITALITY logo"
           />
           <h1>
-            Syedi <span>Hos</span>
+            SYEDI <span>HOSPITALITY</span>
           </h1>
         </NavLink>
         <ul className={`navigation-menu flex-row pop-font ${isModalActive ? 'active' : ''}`}>

@@ -29,16 +29,16 @@ const ContactUsLanding = () => {
       />
       <section className='company-details'>
         <div>
-          <h2>000 (000) 123 4567</h2>
+          <h2>+91 9700-444-855</h2>
           <p>Contact us if you have any questions</p>
         </div>
         <div>
-          <h2>506 Roy Alley 80202 </h2>
-          <p>Colorado, Denver</p>
+          <h2>Address here ---</h2>
+          <p>city, state</p>
         </div>
         <div>
-          <h2>Open Monday-Friday</h2>
-          <p>8:00am - 9:00pm</p>
+          <h2>Open Monday-Saturday</h2>
+          <p>9:00am - 5:00pm</p>
         </div>
       </section>
     </section>

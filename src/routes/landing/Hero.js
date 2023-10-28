@@ -17,11 +17,10 @@ const Hero = () => {
           exit={{ opacity: 0 }}
           transition={{ duration: 2 }}
         >
-          <span>Welcome</span>
-          <h1 className="txt-white">try something amazing</h1>
+          <span>Welcome to</span>
+          <h1 className="txt-white">SYEDI HOSPITALITY and Travels</h1>
           <p className="txt-white">
-            Ordering your fave Pizza is quick and easy with our app or on our
-            website.
+          Enjoy the Best Destinations with Our Travel Agency.
           </p>
         </motion.div>
 

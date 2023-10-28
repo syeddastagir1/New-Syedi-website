@@ -8,14 +8,12 @@ import pizzaMenuPreview from '../../data/pizzaMenuPreview';
 
 const PizzaMenuPreview = () => {
   return (
-    <article className="section-4 flex-container flex-column" >
+    <article className="section-4 flex-container flex-column"  style={{marginTop : 80}}>
       <section className="section-4-info txt-center">
-        <h2 className="pop-font txt-white">Hot Pizza Meals</h2>
-        <p className="section-description">
-          Pizza Time holds the market of the pizza industry and continuously
-          offers more than pizza. Check out our hottest menu options with
-          cheese, meat, chicken and veggies!
-        </p>
+          <h2 className="pop-font txt-white">Hot Deals on visa's</h2>
+          <p className="section-description">
+          Are you ready to embark on your next adventure? Imagine a world where travel dreams become reality, where borders open up to exploration, and where cultural immersion awaits. At [SYEDI HOSPITALITY], we're delighted to present you with our exclusive "Hot Deals on Visas," your gateway to the world.
+          </p>
       </section>
       <section className="meals-grid flex-container flex-column" >
         {pizzaMenuPreview.map((pizza, id) => (
@@ -51,7 +49,7 @@ const PizzaMenuPreview = () => {
         to="/menu"
         className="active-button-style txt-white"
       >
-        More pizza
+        Load More
       </Link>
     </article>
 
