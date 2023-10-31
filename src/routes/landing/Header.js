@@ -1,5 +1,5 @@
 import React from 'react'
-import  logo from '../../assets/images/logo.png'
+// import  logo from '../../assets/images/logo.png'
 import Newlogo from '../../assets/images/Newlogo.png'
 import openMenu from '../../assets/images/open-menu.svg'
 import closeMenu from '../../assets/images/close-menu.svg'
