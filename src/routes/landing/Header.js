@@ -171,7 +171,7 @@ const Header = ({ loginModal,
                     handleLogout()
                   }}
                 >
-                  Log out
+                  Log Out
                 </Link>
               ) : (
                 <div
@@ -181,7 +181,7 @@ const Header = ({ loginModal,
                     activateLoginModal()
                   }}
                 >
-                  Log in
+                  Log In
                 </div>
               )}
               <NavLink
