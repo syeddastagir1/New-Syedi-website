@@ -10,8 +10,8 @@ const AboutCareers = () => {
         <h2 className="sub-title">Careers</h2>
         <h3>Join the team</h3>
         <p>
-          Are you passionate about great food, exceptional customer service, and working with a fun and dynamic team? If so, we would love to have you join our team at Pizza Time!
-          We are always on the lookout for talented and motivated individuals to join our team in a variety of roles, from servers and chefs to kitchen staff and management. Whether you're just starting out in the foodservice industry or have years of experience under your belt, we offer a supportive and collaborative work environment that encourages personal and professional growth.
+        Are you passionate about crafting exceptional travel experiences, providing outstanding customer service, and being part of a vibrant and dynamic team? If so, Syedi Hospitality welcomes you to join our family!
+        We are continuously searching for talented and motivated individuals to become integral members of our team, offering diverse roles ranging from travel consultants and hospitality experts to administrative staff and management. Whether you're beginning your journey in the travel industry or bringing years of experience, our supportive and collaborative work environment fosters personal and professional growth, making Syedi Hospitality an exciting place to thrive.
         </p>
         <Link to="/careers" onClick={ResetLocation} className="active-button-style">Join now</Link>
       </section>

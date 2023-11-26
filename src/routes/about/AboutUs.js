@@ -11,9 +11,9 @@ const AboutUs = () => {
     <article className="about-us">
       <section className="content">
         <h2>About us</h2>
-        <h3 className='sub-title'>More than delicious food</h3>
+        <h3 className='sub-title'>More than a travel agency.</h3>
         <p>
-          Founded in 1982 we bring pizza slice by slice to the next level! Unique branding and being in the pizza industry is the formula to out success. We do understand what people want and convert desires to unique experiences of taste. Freshness, orignality and quality is only the small part of out priorities. Affortable costs, located almost anywhere you go, amazing online operational system to order food in one click. Easy to navigate pre-order options and amazing options for corporate parties! At Pizza Time we care about you because you are the one who makes us special! The Pizza Time project was made with love for pizza by Ekaterine Mitagvaria.
+        At Syedi Hospitality, we believe that every journey is a story waiting to be told. As a passionate travel agency, we are dedicated to curating exceptional and unforgettable experiences for our clients. Whether you dream of exploring exotic destinations, embarking on cultural adventures, or simply relaxing in luxurious getaways, Syedi Hospitality is here to turn your travel aspirations into reality. Our commitment to personalized service, attention to detail, and a deep love for travel ensures that each journey with us is a seamless blend of comfort, exploration, and discovery. Trust us to be your guide in creating moments that last a lifetime..
         </p>
         <div className="section-one-glass"></div>
       </section>

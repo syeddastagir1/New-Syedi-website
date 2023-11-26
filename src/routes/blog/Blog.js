@@ -38,8 +38,7 @@ const Blog = () => {
     >
       <h2>Blog</h2>
       <p className="blog-intro">
-        Pizza makes everything better. These are some of our favorite pizza
-        blogs that are loaded with recipes and pizza-making tips.
+      Exploring the world is better with a touch of hospitality. We're delighted to share some of our favorite travel blogs, filled with inspiring stories, destination recommendations, and travel tips. Because at Syedi Hospitality, we believe in making every journey an enriching experience. Discover the wonders of the world through our curated collection of travel blogs, crafted with a passion for exploration and a commitment to creating unforgettable memories.
       </p>
       <section className="blog-grid">
         {currentBlogPosts.map((blogPost, index) => {
