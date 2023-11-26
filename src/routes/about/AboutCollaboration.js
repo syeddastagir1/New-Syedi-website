@@ -11,7 +11,7 @@ const AboutCollaboration = () => {
         <h2 className="sub-title">Collaboration</h2>
         <h3>Join the business</h3>
         <p>
-          Whether it's catering for a corporate event, providing lunch for a business meeting, or simply offering a delicious meal for employees to enjoy, we are committed to meeting the unique needs of businesses in our area. Our menu features a wide range of options, from classic pizzas and salads to sandwiches and pasta dishes, so you can be sure there's something for everyone to enjoy. Don't forget, Pizza Time is a fictional pizza restaurant made by Ekaterine Mitagvaria.
+        From curating immersive travel experiences to meeting the distinctive needs of businesses in our region, Syedi Hospitality is dedicated to excellence. Whether it's organizing corporate retreats, facilitating business conferences, or providing delightful meals for employees, we tailor our services to exceed the unique requirements of our corporate clients. Our versatile menu showcases a variety of options, ensuring a culinary experience that caters to every palate. Syedi Hospitality, your trusted partner in creating memorable moments.
         </p>
         <Link to="/contact" onClick={ResetLocation} className="active-button-style">Request a call</Link>
       </section>
